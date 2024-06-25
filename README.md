@@ -1,5 +1,6 @@
 # DIR Info
 - modules : deep(딥러닝 모듈), web(웹 모듈)
+- datas : 각종 이미지, 영상, CSV 등 자료 모음.
 
 # Architect
 ![architecture](https://github.com/YoungsikMoon/kiw/assets/162241674/721c3f9a-e18e-492c-9912-553dee462957)
